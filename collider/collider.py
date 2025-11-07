@@ -22,13 +22,13 @@ class Molecule:
 
 
 oxygen = Molecule(
-    "oxygen", "nitrogen", activation_energy=200, color=Color(fill="#fdd835", outline="#ff8f00"), radius=16
+    "oxygen", "nitrogen", activation_energy=200, color=Color(fill="#fd35f6", outline="#8400ff"), radius=16
 )
 nitrogen = Molecule(
     "nitrogen", "oxygen", activation_energy=200, color=Color(fill="#1e88e5", outline="#0d47a1"), radius=14
 )
 nitric_oxide = Molecule(
-    "NO", None, activation_energy=0, color=Color(fill="#1abc9c", outline="#148f77"), radius=22
+    "NO", None, activation_energy=0, color=Color(fill="#1abcbc", outline="#1052097e"), radius=22
 )
 
 
